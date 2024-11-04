@@ -1,0 +1,1 @@
+/usr/bin/clang++ -DQT_QML_DEBUG -g "CMakeFiles/IA-interface.dir/IA-interface_autogen/mocs_compilation.cpp.o" "CMakeFiles/IA-interface.dir/main.cpp.o" "CMakeFiles/IA-interface.dir/mainwindow.cpp.o" -o IA-interface  /usr/lib/libQt6Widgets.so.6.8.0 -lportaudio -lasound -lm -lpthread /usr/lib/libQt6Gui.so.6.8.0 /usr/lib/libGLX.so /usr/lib/libOpenGL.so /usr/lib/libQt6Core.so.6.8.0

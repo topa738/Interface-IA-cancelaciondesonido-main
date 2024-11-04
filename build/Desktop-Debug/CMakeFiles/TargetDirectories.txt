@@ -1,0 +1,9 @@
+/home/facu/IA-interface/build/Desktop-Debug/CMakeFiles/IA-interface.dir
+/home/facu/IA-interface/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/facu/IA-interface/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/facu/IA-interface/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/facu/IA-interface/build/Desktop-Debug/CMakeFiles/install.dir
+/home/facu/IA-interface/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/facu/IA-interface/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/facu/IA-interface/build/Desktop-Debug/CMakeFiles/IA-interface_autogen_timestamp_deps.dir
+/home/facu/IA-interface/build/Desktop-Debug/CMakeFiles/IA-interface_autogen.dir
